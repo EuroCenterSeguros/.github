@@ -113,7 +113,9 @@ Documentación completa del equipo. Se irá ampliando con nuevas guías progresi
       <br/><br/>
       Requisitos y pasos para configurar el entorno de desarrollo local.
       <br/><br/>
-      <img src="https://img.shields.io/badge/🔜_PRÓXIMAMENTE-555555?style=for-the-badge&logoColor=white"/>
+      <a href="https://eurocenterseguros.github.io/Guia-de-instalacion/">
+  <img src="https://img.shields.io/badge/🔧_VER_GUÍA-2d6a4f?style=for-the-badge&logoColor=white"/>
+</a>
       <br/><br/>
     </td>
     <td align="center" width="210">

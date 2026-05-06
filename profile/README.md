@@ -12,6 +12,19 @@
 
 ---
 
+## 🔗 Enlaces de Trabajo
+
+> Accesos rápidos a todas las herramientas y paneles del equipo
+
+| | Nombre | URL | Descripción |
+|:---:|:---|:---|:---|
+| 🌐 | **Web Antigua** | [eurocenterseguros.org.es](https://eurocenterseguros.org.es/) | Sitio web anterior en producción |
+| 🆕 | **Web Nueva (Admin)** | [eurocenterseguros.center/wp-admin](https://eurocenterseguros.center/wp-admin) | Panel WordPress del nuevo sitio |
+| 🖥️ | **Plesk Nuevo** | [188.95.114.156:8443](https://188.95.114.156:8443/login_up.php?success_redirect_url=%2Fsmb%2Ffile-manager%2Flist%3FdomainId%3D9%26currentDir%3D%252Fhttpdocs%252FEnvioCorreos%252FControlador) | Gestor de archivos servidor nuevo |
+| 🖥️ | **Plesk Antiguo** | [server.eurocenterseguros.org.es:8443](https://server.eurocenterseguros.org.es:8443/login_up.php?success_redirect_url=https%3A%2F%2Fserver.eurocenterseguros.org.es%3A8443%2Fadmin%2Fhome%3Fcontext%3Dhome) | Panel administración servidor antiguo |
+
+---
+
 <div align="center">
 
 ## 🛡️ ¿Quiénes somos?
@@ -65,16 +78,15 @@ No trabajamos para ninguna aseguradora — trabajamos **para ti**.
 
 ---
 
-## 🔗 Enlaces de Trabajo
+## 👥 Equipo
 
-> Accesos rápidos a todas las herramientas y paneles del equipo
-
-| | Nombre | URL | Descripción |
-|:---:|:---|:---|:---|
-| 🌐 | **Web Antigua** | [eurocenterseguros.org.es](https://eurocenterseguros.org.es/) | Sitio web anterior en producción |
-| 🆕 | **Web Nueva (Admin)** | [eurocenterseguros.center/wp-admin](https://eurocenterseguros.center/wp-admin) | Panel WordPress del nuevo sitio |
-| 🖥️ | **Plesk Nuevo** | [188.95.114.156:8443](https://188.95.114.156:8443/login_up.php?success_redirect_url=%2Fsmb%2Ffile-manager%2Flist%3FdomainId%3D9%26currentDir%3D%252Fhttpdocs%252FEnvioCorreos%252FControlador) | Gestor de archivos servidor nuevo |
-| 🖥️ | **Plesk Antiguo** | [server.eurocenterseguros.org.es:8443](https://server.eurocenterseguros.org.es:8443/login_up.php?success_redirect_url=https%3A%2F%2Fserver.eurocenterseguros.org.es%3A8443%2Fadmin%2Fhome%3Fcontext%3Dhome) | Panel administración servidor antiguo |
+| Avatar | Nombre | Usuario | Rol |
+|:---:|:---|:---|:---:|
+| <img src="https://github.com/nicocorbi.png" width="40" height="40" style="border-radius:50%"/> | **nicocorbi** | [@nicocorbi](https://github.com/nicocorbi) | 👑 Dueño |
+| <img src="https://github.com/Eduardo-Molinero.png" width="40" height="40" style="border-radius:50%"/> | **Eduardo Molinero** | [@Eduardo-Molinero](https://github.com/Eduardo-Molinero) | 🧑‍💻 Miembro |
+| <img src="https://github.com/jxparra.png" width="40" height="40" style="border-radius:50%"/> | **Joaquín** | [@jxparra](https://github.com/jxparra) | 🧑‍💻 Miembro |
+| <img src="https://github.com/Pedro-Fernandez.png" width="40" height="40" style="border-radius:50%"/> | **Pedro Fernández Moyano** | [@Pedro-Fernandez](https://github.com/Pedro-Fernandez) | 🧑‍💻 Miembro |
+| <img src="https://github.com/jmarinav.png" width="40" height="40" style="border-radius:50%"/> | **Juan Marina Varela** | [@jmarinav](https://github.com/jmarinav) | 🧑‍💻 Miembro |
 
 ---
 

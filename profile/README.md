@@ -51,30 +51,54 @@ No trabajamos para ninguna aseguradora — trabajamos **para ti**.
 
 ---
 
-## 🛡️ Nuestros Servicios
+## 🗂️ Repositorios
 
-| | Servicio | Descripción |
-|:---:|:---|:---|
-| 🚗 | **Seguro de Automóvil** | Cobertura total, gestión ágil de siniestros y asistencia en carretera |
-| 🏠 | **Hogar y Patrimonio** | Protección para tu hogar, comunidades y empresas |
-| ❤️ | **Salud y Vida** | Cuida tu salud y asegura el futuro de los tuyos |
-| ⚖️ | **Responsabilidad Civil** | Cobertura profesional y personal ante terceros |
-| 🌿 | **Decesos** | Apoyo y gestión integral en los momentos más difíciles |
-| 🚲 | **Seguro para Bicis** | Cobertura específica para bicicletas y patinetes eléctricos |
-| 🕐 | **Auto por Días** | Seguro temporal de vehículo cuando lo necesitas |
+<div align="center">
 
----
+<table>
+  <tr>
+    <td align="center" width="300">
+      <br/>
+      <b>⚙️ automatizacion_eurocenter</b>
+      <br/><br/>
+      Automatizaciones y procesos internos del equipo
+      <br/>
+      <i>Scripts de gestión y flujos de trabajo</i>
+      <br/><br/>
+      <a href="https://github.com/EuroCenterSeguros/automatizacion_eurocenter">
+        <img src="https://img.shields.io/badge/🔍_VER_REPOSITORIO-2d6a4f?style=for-the-badge&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/EuroCenterSeguros/automatizacion_eurocenter/archive/refs/heads/main.zip">
+        <img src="https://img.shields.io/badge/⬇️_DESCARGAR_ZIP-1b4332?style=for-the-badge&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <br/><br/>
+    </td>
+    <td align="center" width="300">
+      <br/>
+      <b>🌐 VS_EuroCenter</b>
+      <br/><br/>
+      Herramientas y configuraciones del equipo de desarrollo
+      <br/>
+      <i>Panel y utilidades web</i>
+      <br/><br/>
+      <a href="https://github.com/EuroCenterSeguros/VS_EuroCenter">
+        <img src="https://img.shields.io/badge/🔍_VER_REPOSITORIO-2d6a4f?style=for-the-badge&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/EuroCenterSeguros/VS_EuroCenter/archive/refs/heads/main.zip">
+        <img src="https://img.shields.io/badge/⬇️_DESCARGAR_ZIP-1b4332?style=for-the-badge&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
-## 💻 Herramientas Online
-
-> Gestiona tu póliza sin salir de casa
-
-```
-🔸 Alta de siniestros          →  eurocenterseguros.org.es/usuarios/buscaSiniestro4.php
-🔸 Calculadora de presupuesto  →  eurocenterseguros.org.es/gestiones-y-servicios-online/
-🔸 Pago de recibos online      →  eurocenterseguros.org.es/usuarios/pagoseguro.php
-🔸 Envío de documentación      →  eurocenterseguros.org.es/gestiones-y-servicios-online/enviar-documentacion/
-```
+</div>
 
 ---
 
@@ -87,15 +111,6 @@ No trabajamos para ninguna aseguradora — trabajamos **para ti**.
 | <img src="https://github.com/jxparra.png" width="40" height="40" style="border-radius:50%"/> | **Joaquín** | [@jxparra](https://github.com/jxparra) | 🧑‍💻 Miembro |
 | <img src="https://github.com/pedrofernandezmoyano.png" width="40" height="40" style="border-radius:50%"/> | **Pedro Fernández Moyano** | [@Pedro-Fernandez](https://github.com/Pedro-Fernandez) | 🧑‍💻 Miembro |
 | <img src="https://github.com/jmarinav.png" width="40" height="40" style="border-radius:50%"/> | **Juan Marina Varela** | [@jmarinav](https://github.com/jmarinav) | 🧑‍💻 Miembro |
-
----
-
-## 🗂️ Repositorios
-
-| Repositorio | Descripción | Tecnología |
-|:---|:---|:---:|
-| [`automatizacion_eurocenter`](https://github.com/EuroCenterSeguros/automatizacion_eurocenter) | Automatizaciones y procesos internos | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [`VS_EuroCenter`](https://github.com/EuroCenterSeguros/VS_EuroCenter) | Herramientas y configuraciones del equipo | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 
 ---
 

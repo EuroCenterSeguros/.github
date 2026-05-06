@@ -90,7 +90,7 @@
 
 ## 📚 Documentación
 
-Estamos preparando documentación completa para cubrir todas las necesidades del equipo. Se irá publicando próximamente.
+Documentación completa del equipo. Se irá ampliando con nuevas guías progresivamente.
 
 <div align="center">
 
@@ -102,7 +102,9 @@ Estamos preparando documentación completa para cubrir todas las necesidades del
       <br/><br/>
       Guía de uso de las herramientas y sistemas internos para el equipo.
       <br/><br/>
-      <img src="https://img.shields.io/badge/🔜_PRÓXIMAMENTE-555555?style=for-the-badge&logoColor=white"/>
+      <a href="https://eurocenterseguros.github.io/Manual-de-usuario/">
+        <img src="https://img.shields.io/badge/📖_VER_MANUAL-2d6a4f?style=for-the-badge&logoColor=white"/>
+      </a>
       <br/><br/>
     </td>
     <td align="center" width="210">

@@ -25,32 +25,6 @@
 
 ---
 
-<div align="center">
-
-## 🛡️ ¿Quiénes somos?
-
-</div>
-
-**Grupo Euro-CENTER** es una **correduría de seguros independiente** con décadas de experiencia conectando a particulares y empresas con las mejores compañías aseguradoras del mercado.
-
-No trabajamos para ninguna aseguradora — trabajamos **para ti**.
-
----
-
-<div align="center">
-
-## 🏦 Nuestras Aseguradoras
-
-![AXA](https://img.shields.io/badge/AXA-00008F?style=flat-square&logoColor=white)
-![ALLIANZ](https://img.shields.io/badge/ALLIANZ-003781?style=flat-square&logoColor=white)
-![MAPFRE](https://img.shields.io/badge/MAPFRE-C8102E?style=flat-square&logoColor=white)
-![OCCIDENT](https://img.shields.io/badge/OCCIDENT-1b4332?style=flat-square&logoColor=white)
-![CASER](https://img.shields.io/badge/CASER-F5A623?style=flat-square&logoColor=white)
-
-</div>
-
----
-
 ## 🗂️ Repositorios
 
 <div align="center">
@@ -109,8 +83,59 @@ No trabajamos para ninguna aseguradora — trabajamos **para ti**.
 | <img src="https://github.com/nicocorbi.png" width="40" height="40" style="border-radius:50%"/> | **nicocorbi** | [@nicocorbi](https://github.com/nicocorbi) | 👑 Dueño |
 | <img src="https://github.com/Eduardo-Molinero.png" width="40" height="40" style="border-radius:50%"/> | **Eduardo Molinero** | [@Eduardo-Molinero](https://github.com/Eduardo-Molinero) | 🧑‍💻 Miembro |
 | <img src="https://github.com/jxparra.png" width="40" height="40" style="border-radius:50%"/> | **Joaquín** | [@jxparra](https://github.com/jxparra) | 🧑‍💻 Miembro |
-| <img src="https://github.com/pedrofernandezmoyano.png" width="40" height="40" style="border-radius:50%"/> | **Pedro Fernández Moyano** | [@Pedro-Fernandez](https://github.com/Pedro-Fernandez) | 🧑‍💻 Miembro |
+| <img src="https://github.com/pedrofernandezmoyano.png" width="40" height="40" style="border-radius:50%"/> | **Pedro Fernández Moyano** | [@pedrofernandezmoyano](https://github.com/pedrofernandezmoyano) | 🧑‍💻 Miembro |
 | <img src="https://github.com/jmarinav.png" width="40" height="40" style="border-radius:50%"/> | **Juan Marina Varela** | [@jmarinav](https://github.com/jmarinav) | 🧑‍💻 Miembro |
+
+---
+
+## 📚 Documentación
+
+Estamos preparando documentación completa para cubrir todas las necesidades del equipo. Se irá publicando próximamente.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="210">
+      <br/>
+      <b>🖥️ Manual de Usuario</b>
+      <br/><br/>
+      Guía de uso de las herramientas y sistemas internos para el equipo.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🔜_PRÓXIMAMENTE-555555?style=for-the-badge&logoColor=white"/>
+      <br/><br/>
+    </td>
+    <td align="center" width="210">
+      <br/>
+      <b>🔧 Guía de Instalación</b>
+      <br/><br/>
+      Requisitos y pasos para configurar el entorno de desarrollo local.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🔜_PRÓXIMAMENTE-555555?style=for-the-badge&logoColor=white"/>
+      <br/><br/>
+    </td>
+    <td align="center" width="210">
+      <br/>
+      <b>📄 Documentación Técnica</b>
+      <br/><br/>
+      Arquitectura, estructura de servidores y especificaciones de los módulos.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🔜_PRÓXIMAMENTE-555555?style=for-the-badge&logoColor=white"/>
+      <br/><br/>
+    </td>
+    <td align="center" width="210">
+      <br/>
+      <b>👨‍💼 Manual de Administrador</b>
+      <br/><br/>
+      Protocolos de gestión, resolución de incidencias y accesos al sistema.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🔜_PRÓXIMAMENTE-555555?style=for-the-badge&logoColor=white"/>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 

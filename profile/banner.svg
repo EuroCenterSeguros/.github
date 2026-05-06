@@ -1,0 +1,128 @@
+<svg viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" width="900" height="280">
+  <defs>
+    <!-- Gradiente principal verde -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a2e1a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1b4332;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d6a4f;stop-opacity:1" />
+    </linearGradient>
+    <!-- Gradiente acento dorado -->
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d4a017;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f0c040;stop-opacity:1" />
+    </linearGradient>
+    <!-- Gradiente texto -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b7e4c7;stop-opacity:1" />
+    </linearGradient>
+    <!-- Filtro brillo suave -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <!-- Fondo principal -->
+  <rect width="900" height="280" fill="url(#bgGrad)" rx="16"/>
+
+  <!-- Patrón de hexágonos decorativos (fondo sutil) -->
+  <g opacity="0.06">
+    <polygon points="60,20 80,8 100,20 100,44 80,56 60,44" fill="none" stroke="#52b788" stroke-width="1"/>
+    <polygon points="100,20 120,8 140,20 140,44 120,56 100,44" fill="none" stroke="#52b788" stroke-width="1"/>
+    <polygon points="140,20 160,8 180,20 180,44 160,56 140,44" fill="none" stroke="#52b788" stroke-width="1"/>
+    <polygon points="80,56 100,44 120,56 120,80 100,92 80,80" fill="none" stroke="#52b788" stroke-width="1"/>
+    <polygon points="40,56 60,44 80,56 80,80 60,92 40,80" fill="none" stroke="#52b788" stroke-width="1"/>
+    <polygon points="800,180 820,168 840,180 840,204 820,216 800,204" fill="none" stroke="#52b788" stroke-width="1"/>
+    <polygon points="840,180 860,168 880,180 880,204 860,216 840,204" fill="none" stroke="#52b788" stroke-width="1"/>
+    <polygon points="820,216 840,204 860,216 860,240 840,252 820,240" fill="none" stroke="#52b788" stroke-width="1"/>
+    <polygon points="760,200 780,188 800,200 800,224 780,236 760,224" fill="none" stroke="#52b788" stroke-width="1"/>
+  </g>
+
+  <!-- Círculo decorativo grande izquierda -->
+  <circle cx="-20" cy="140" r="160" fill="none" stroke="#52b788" stroke-width="0.5" opacity="0.15"/>
+  <circle cx="-20" cy="140" r="120" fill="none" stroke="#52b788" stroke-width="0.5" opacity="0.1"/>
+
+  <!-- Círculo decorativo grande derecha -->
+  <circle cx="920" cy="140" r="160" fill="none" stroke="#52b788" stroke-width="0.5" opacity="0.15"/>
+  <circle cx="920" cy="140" r="120" fill="none" stroke="#52b788" stroke-width="0.5" opacity="0.1"/>
+
+  <!-- Línea dorada superior decorativa -->
+  <rect x="0" y="0" width="900" height="4" fill="url(#goldGrad)" rx="2" opacity="0.9"/>
+
+  <!-- Línea dorada inferior decorativa -->
+  <rect x="0" y="276" width="900" height="4" fill="url(#goldGrad)" rx="2" opacity="0.9"/>
+
+  <!-- Escudo / ícono central izquierdo -->
+  <g transform="translate(120, 100)" filter="url(#shadow)">
+    <!-- Escudo forma -->
+    <path d="M40,0 L80,15 L80,55 Q80,80 40,95 Q0,80 0,55 L0,15 Z" fill="#2d6a4f" stroke="#52b788" stroke-width="2"/>
+    <path d="M40,8 L72,21 L72,55 Q72,75 40,87 Q8,75 8,55 L8,21 Z" fill="#1b4332"/>
+    <!-- Cruz del escudo -->
+    <rect x="34" y="25" width="12" height="40" fill="url(#goldGrad)" rx="2" opacity="0.9"/>
+    <rect x="20" y="38" width="40" height="12" fill="url(#goldGrad)" rx="2" opacity="0.9"/>
+  </g>
+
+  <!-- Nombre principal -->
+  <text x="230" y="115"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="52"
+        font-weight="bold"
+        fill="url(#textGrad)"
+        filter="url(#glow)"
+        letter-spacing="2">Euro-CENTER</text>
+
+  <!-- Subtítulo SEGUROS -->
+  <text x="233" y="148"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="28"
+        font-weight="normal"
+        fill="#d4a017"
+        letter-spacing="12">SEGUROS</text>
+
+  <!-- Línea separadora dorada -->
+  <rect x="230" y="162" width="480" height="2" fill="url(#goldGrad)" rx="1" opacity="0.7"/>
+
+  <!-- Tagline -->
+  <text x="230" y="190"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="16"
+        fill="#b7e4c7"
+        font-style="italic"
+        letter-spacing="1">Correduría Independiente · Tu tranquilidad, nuestra misión</text>
+
+  <!-- Badges aseguradoras en la parte inferior -->
+  <g transform="translate(230, 210)">
+    <!-- AXA -->
+    <rect x="0" y="0" width="52" height="22" rx="4" fill="#00008F" opacity="0.85"/>
+    <text x="26" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">AXA</text>
+    <!-- ALLIANZ -->
+    <rect x="60" y="0" width="70" height="22" rx="4" fill="#003781" opacity="0.85"/>
+    <text x="95" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">ALLIANZ</text>
+    <!-- MAPFRE -->
+    <rect x="138" y="0" width="70" height="22" rx="4" fill="#C8102E" opacity="0.85"/>
+    <text x="173" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">MAPFRE</text>
+    <!-- OCCIDENT -->
+    <rect x="216" y="0" width="76" height="22" rx="4" fill="#2d6a4f" opacity="0.85"/>
+    <text x="254" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">OCCIDENT</text>
+    <!-- CASER -->
+    <rect x="300" y="0" width="60" height="22" rx="4" fill="#b5550a" opacity="0.85"/>
+    <text x="330" y="15" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">CASER</text>
+    <!-- más -->
+    <text x="368" y="15" font-family="Arial, sans-serif" font-size="13" fill="#b7e4c7" opacity="0.8">y más...</text>
+  </g>
+
+  <!-- Web en esquina inferior derecha -->
+  <text x="870" y="262"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        fill="#52b788"
+        text-anchor="end"
+        opacity="0.8">eurocenterseguros.org.es</text>
+</svg>

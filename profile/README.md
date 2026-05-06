@@ -1,84 +1,90 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F-CORREDURÍA%20DE%20SEGUROS%20INDEPENDIENTE-2d6a4f?style=for-the-badge&labelColor=1b4332" alt="Correduría de Seguros"/>
+![EuroCenterSeguros Banner](https://raw.githubusercontent.com/EuroCenterSeguros/.github/main/profile/banner.svg)
 
-# 🏢 Grupo Euro-CENTER Seguros
+<br/>
 
-### _Tu tranquilidad, nuestra misión_
-
-[![Web](https://img.shields.io/badge/🌐%20Web-eurocenterseguros.org.es-2d6a4f?style=flat-square&logo=googlechrome&logoColor=white)](https://eurocenterseguros.org.es)
-[![Contacto](https://img.shields.io/badge/📞%20Teléfono-958%2012%2012%2013-52b788?style=flat-square)](tel:958121213)
-[![AXA](https://img.shields.io/badge/AXA-Partner-blue?style=flat-square)](https://eurocenterseguros.org.es)
-[![MAPFRE](https://img.shields.io/badge/MAPFRE-Partner-red?style=flat-square)](https://eurocenterseguros.org.es)
-[![ALLIANZ](https://img.shields.io/badge/ALLIANZ-Partner-0038a8?style=flat-square)](https://eurocenterseguros.org.es)
+[![Web](https://img.shields.io/badge/🌐_Visítanos-eurocenterseguros.org.es-1b4332?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eurocenterseguros.org.es)
+[![Teléfono](https://img.shields.io/badge/📞_Llámanos-958_12_12_13-2d6a4f?style=for-the-badge)](tel:958121213)
+[![Contacto](https://img.shields.io/badge/✉️_Contacto-Formulario-52b788?style=for-the-badge)](https://eurocenterseguros.org.es/Form/formulario.php)
 
 </div>
 
 ---
-
-## 📋 Descripción
 
 <div align="center">
 
-| MISIÓN | PROTEGER LO QUE MÁS IMPORTA |
-|:---:|:---:|
+## 🛡️ ¿Quiénes somos?
 
 </div>
 
-**Grupo Euro-CENTER** es una **correduría de seguros independiente** que conecta a particulares y empresas con las mejores aseguradoras del mercado — AXA, ALLIANZ, MAPFRE, OCCIDENT, CASER y más — ofreciendo asesoramiento personalizado y gestión integral de seguros sin ataduras a ninguna compañía.
+**Grupo Euro-CENTER** es una **correduría de seguros independiente** con décadas de experiencia conectando a particulares y empresas con las mejores compañías aseguradoras del mercado.
 
-> _"Totalmente adaptado a tus necesidades. Saber que estás en buenas manos."_
-
----
-
-## 🛡️ Características
-
-- **🚗 Seguros de Automóvil** — Cobertura completa para tu vehículo, con asistencia en carretera y gestión ágil de siniestros
-- **🏠 Seguros de Patrimonio** — Hogar, comunidades y empresas protegidos frente a cualquier imprevisto
-- **❤️ Seguros de Salud y Vida** — Cuida tu salud y protege el futuro de los tuyos
-- **⚖️ Responsabilidad Civil** — Cobertura profesional y personal ante reclamaciones de terceros
-- **🌿 Seguros de Decesos** — Apoyo en los momentos más difíciles para ti y tu familia
-- **🔧 Gestión de Siniestros Online** — Alta de siniestros, documentación y pagos desde cualquier lugar
+No trabajamos para ninguna aseguradora — trabajamos **para ti**.
 
 ---
-
-## 🏦 Compañías con las que trabajamos
 
 <div align="center">
 
-`AXA` · `ALLIANZ` · `MAPFRE` · `OCCIDENT` · `CASER` · `COVENTIA` · `CLEVEREA`
+## 🏦 Nuestras Aseguradoras
+
+![AXA](https://img.shields.io/badge/AXA-00008F?style=flat-square&logoColor=white)
+![ALLIANZ](https://img.shields.io/badge/ALLIANZ-003781?style=flat-square&logoColor=white)
+![MAPFRE](https://img.shields.io/badge/MAPFRE-C8102E?style=flat-square&logoColor=white)
+![OCCIDENT](https://img.shields.io/badge/OCCIDENT-1b4332?style=flat-square&logoColor=white)
+![CASER](https://img.shields.io/badge/CASER-F5A623?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Repositorios
+## 🛡️ Nuestros Servicios
 
-Este espacio de GitHub alberga el ecosistema tecnológico de Euro-CENTER:
-
-| Repositorio | Descripción | Estado |
-|---|---|---|
-| `automatizacion_eurocenter` | Automatizaciones y procesos internos | 🟢 Activo |
-| `VS_EuroCenter` | Herramientas y configuraciones del equipo | 🟢 Activo |
+| | Servicio | Descripción |
+|:---:|:---|:---|
+| 🚗 | **Seguro de Automóvil** | Cobertura total, gestión ágil de siniestros y asistencia en carretera |
+| 🏠 | **Hogar y Patrimonio** | Protección para tu hogar, comunidades y empresas |
+| ❤️ | **Salud y Vida** | Cuida tu salud y asegura el futuro de los tuyos |
+| ⚖️ | **Responsabilidad Civil** | Cobertura profesional y personal ante terceros |
+| 🌿 | **Decesos** | Apoyo y gestión integral en los momentos más difíciles |
+| 🚲 | **Seguro para Bicis** | Cobertura específica para bicicletas y patinetes eléctricos |
+| 🕐 | **Auto por Días** | Seguro temporal de vehículo cuando lo necesitas |
 
 ---
 
-## 🌐 Servicios Online
+## 💻 Herramientas Online
 
-Accede a nuestras herramientas digitales en **[eurocenterseguros.org.es](https://eurocenterseguros.org.es)**:
+> Gestiona tu póliza sin salir de casa
 
-- 📄 [Dar de alta un siniestro](https://eurocenterseguros.org.es/usuarios/buscaSiniestro4.php)
-- 💰 [Calculadora de presupuesto](https://eurocenterseguros.org.es/gestiones-y-servicios-online/calculadora-seguros-particulares/)
-- 📬 [Enviar documentación](https://eurocenterseguros.org.es/gestiones-y-servicios-online/enviar-documentacion/)
-- 💳 [Pago de recibos online](https://eurocenterseguros.org.es/usuarios/pagoseguro.php)
+```
+🔸 Alta de siniestros          →  eurocenterseguros.org.es/usuarios/buscaSiniestro4.php
+🔸 Calculadora de presupuesto  →  eurocenterseguros.org.es/gestiones-y-servicios-online/
+🔸 Pago de recibos online      →  eurocenterseguros.org.es/usuarios/pagoseguro.php
+🔸 Envío de documentación      →  eurocenterseguros.org.es/gestiones-y-servicios-online/enviar-documentacion/
+```
+
+---
+
+## 🗂️ Repositorios
+
+| Repositorio | Descripción | Tecnología |
+|:---|:---|:---:|
+| [`automatizacion_eurocenter`](https://github.com/EuroCenterSeguros/automatizacion_eurocenter) | Automatizaciones y procesos internos | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [`VS_EuroCenter`](https://github.com/EuroCenterSeguros/VS_EuroCenter) | Herramientas y configuraciones del equipo | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 
 ---
 
 <div align="center">
 
 **📍 Grupo Euro-CENTER Seguros**
-[🌐 Web](https://eurocenterseguros.org.es) · [📞 958 12 12 13](tel:958121213) · [✉️ Contacto](https://eurocenterseguros.org.es/Form/formulario.php)
+_Correduría de seguros registrada y supervisada por la DGSFP_
 
-_Correduría de seguros registrada y supervisada por la DGSyFP_
+<br/>
+
+[🌐 Web](https://eurocenterseguros.org.es) · [📞 958 12 12 13](tel:958121213) · [✉️ Contacto](https://eurocenterseguros.org.es/Form/formulario.php) · [🏢 Oficinas](https://eurocenterseguros.org.es/quienes-somos/oficinas/)
+
+<br/>
+
+![visitors](https://img.shields.io/badge/Grupo_Euro--CENTER-Desde_1994-1b4332?style=flat-square)
 
 </div>

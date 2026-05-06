@@ -85,7 +85,7 @@ No trabajamos para ninguna aseguradora — trabajamos **para ti**.
 | <img src="https://github.com/nicocorbi.png" width="40" height="40" style="border-radius:50%"/> | **nicocorbi** | [@nicocorbi](https://github.com/nicocorbi) | 👑 Dueño |
 | <img src="https://github.com/Eduardo-Molinero.png" width="40" height="40" style="border-radius:50%"/> | **Eduardo Molinero** | [@Eduardo-Molinero](https://github.com/Eduardo-Molinero) | 🧑‍💻 Miembro |
 | <img src="https://github.com/jxparra.png" width="40" height="40" style="border-radius:50%"/> | **Joaquín** | [@jxparra](https://github.com/jxparra) | 🧑‍💻 Miembro |
-| <img src="https://github.com/Pedro-Fernandez.png" width="40" height="40" style="border-radius:50%"/> | **Pedro Fernández Moyano** | [@Pedro-Fernandez](https://github.com/Pedro-Fernandez) | 🧑‍💻 Miembro |
+| <img src="https://github.com/pedrofernandezmoyano.png" width="40" height="40" style="border-radius:50%"/> | **Pedro Fernández Moyano** | [@Pedro-Fernandez](https://github.com/Pedro-Fernandez) | 🧑‍💻 Miembro |
 | <img src="https://github.com/jmarinav.png" width="40" height="40" style="border-radius:50%"/> | **Juan Marina Varela** | [@jmarinav](https://github.com/jmarinav) | 🧑‍💻 Miembro |
 
 ---
